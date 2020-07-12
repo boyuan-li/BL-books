@@ -4,6 +4,6 @@ A collection of books reviewed, which cover data science, machine learning, stat
 
 Updated at: 2020-07-12
 
-![Read](https://gph.is/g/4o6B0Km)
+![Read](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 ![Books](2020-07-12.png)
