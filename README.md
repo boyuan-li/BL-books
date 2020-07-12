@@ -2,4 +2,4 @@
 
 Book Collections
 
-![](2020-07-12)
+![Books](2020-07-12.png)
